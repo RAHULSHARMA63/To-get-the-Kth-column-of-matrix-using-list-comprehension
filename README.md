@@ -1,0 +1,1 @@
+# To-get-the-Kth-column-of-matrix-using-list-comprehension
